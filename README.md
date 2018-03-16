@@ -1,4 +1,4 @@
-# Reading list from MENA Developers community
+# Reading list of the MENA Devs Community
 
 ## Fiction
 - [The Science of Interstellar]
