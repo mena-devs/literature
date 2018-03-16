@@ -1,5 +1,7 @@
 # Reading list of the MENA Devs Community
 
+*Disclaimer: Some of the books listed below are linked to a MENA Devs affiliation account with a book purchasing and delivery service. All purchases made through these links will provide MENA Devs with necessary funds to maintain its servers and open source projects.*
+
 ## Fiction
 - [The Science of Interstellar]
   - **Description:** (from amazon.com) [a] journey through the otherworldly science behind Christopher Nolan’s highly anticipated film, Interstellar, from executive producer and theoretical physicist Kip Thorne.
