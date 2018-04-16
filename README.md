@@ -3,6 +3,12 @@
 *Disclaimer: Some of the books listed below are linked to a MENA Devs affiliation account with a book purchasing and delivery service. All purchases made through these links will provide MENA Devs with necessary funds to maintain its servers and open source projects.*
 
 ## Fiction
+- [Burning Chrome (short story collection)]
+  - **Description:** A collection of classic cyberpunk sci-fi short stories by William Gibson.
+  - **Author(s):** William Gibson
+  - **Recommended by:** [JMCQ87](https://github.com/JMCQ87)
+  - **Review**: Good entry point for reading other books by William Gibson, as you can read to one short story quickly.
+  - **Rating**: 4/5
 - [The Science of Interstellar]
   - **Description:** (from amazon.com) [a] journey through the otherworldly science behind Christopher Nolan’s highly anticipated film, Interstellar, from executive producer and theoretical physicist Kip Thorne.
   - **Author(s):** Kip Thorne
@@ -22,11 +28,12 @@
   - **Recommended by:** jadissa-mystic
   - **Rating**: N/A
 - [Where Wizards Stay Up Late: The Origins Of The Internet]
-  - **Description:** (from amazon.com) Twenty five years ago, it didn't exist. Today, twenty million people worldwide are surfing the Net. Where Wizards Stay Up Late is the exciting story of the pioneers responsible for creating the most talked about, most influential, and most far-reaching communications breakthrough since the invention of the telephone. 
+  - **Description:** (from amazon.com) Twenty five years ago, it didn't exist. Today, twenty million people worldwide are surfing the Net. Where Wizards Stay Up Late is the exciting story of the pioneers responsible for creating the most talked about, most influential, and most far-reaching communications breakthrough since the invention of the telephone.
   - **Author(s):** Katie Hafner and Matthew Lyon
   - **Recommended by:** hassankanj
   - **Rating**: N/A
 
+[Burning Chrome (short story collection)]: https://www.amazon.com/Burning-Chrome-William-Gibson/dp/0060539828 
 [Structure and Interpretation of Computer Programs]: https://mitpress.mit.edu/sicp/
 [The Science of Interstellar]: https://www.amazon.com/Science-Interstellar-Kip-Thorne/dp/0393351378
 [Where Wizards Stay Up Late: The Origins Of The Internet]: https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674
