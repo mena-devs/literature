@@ -32,9 +32,17 @@
   - **Author(s):** Katie Hafner and Matthew Lyon
   - **Recommended by:** hassankanj
   - **Rating**: N/A
+- [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon]
+  - **Description:** Top cybersecurity journalist Kim Zetter tells the story behind the virus that sabotaged Iran’s nuclear efforts and shows how its existence has ushered in a new age of warfare—one in which a digital attack can have the same destructive capability as a megaton bomb. 
+  - **Author(s):** Kim Zetter 
+  - **Recommended by:** [Link-](https://github.com/Link-)
+  - **Rating**: 4/5
+
 
 [Burning Chrome (short story collection)]: https://www.amazon.com/Burning-Chrome-William-Gibson/dp/0060539828 
 [Structure and Interpretation of Computer Programs]: https://mitpress.mit.edu/sicp/
 [The Science of Interstellar]: https://www.amazon.com/Science-Interstellar-Kip-Thorne/dp/0393351378
 [Where Wizards Stay Up Late: The Origins Of The Internet]: https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674
 [Kafka on the Shore]: https://www.bookwitty.com/book/kafka-on-the-shore/97814000792780000000?tap_a=12456-d385d1&tap_s=227822-9f407e
+[Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon]: https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196
+
