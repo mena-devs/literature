@@ -43,6 +43,6 @@
 [Structure and Interpretation of Computer Programs]: https://mitpress.mit.edu/sicp/
 [The Science of Interstellar]: https://www.amazon.com/Science-Interstellar-Kip-Thorne/dp/0393351378
 [Where Wizards Stay Up Late: The Origins Of The Internet]: https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674
-[Kafka on the Shore]: https://www.bookwitty.com/book/kafka-on-the-shore/97814000792780000000?tap_a=12456-d385d1&tap_s=227822-9f407e
+[Kafka on the Shore]: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore 
 [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon]: https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196
 
