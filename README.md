@@ -3,6 +3,12 @@
 *Disclaimer: Some of the books listed below are linked to a MENA Devs affiliation account with a book purchasing and delivery service. All purchases made through these links will provide MENA Devs with necessary funds to maintain its servers and open source projects.*
 
 ## Fiction
+- [1984]
+  - **Description:** A classic political/sociological book, 1984 was written in 1949 by George Orwell who also wrote different books on politics and society such as Animal Farm. 1984 is highly influenced by the socialist movement along with the dicatorship that came with it. In this book, George Orwell mentions the political structure of the world as three giant states (Oceania, Eurasia, and Eastasia) and discusses the ways language is simplified (Newspeak) to destroy the ability to think freely. An important concept introduced by the book is the concept of doublethink or the ability to believe in the truth of two incompatible statements simulatenously. Strategies employed by the state in the book are often very harsh and have been critised by Aldous Huxley as too difficult to implement and too inefficient for controlling whole states for the long-term. Recently, jokes have been made about 1984 turning from fiction to non-fiction. A movie has also been made based on the book.
+  - **Author(s):** George Orwell
+  - **Recommended by:** jadissa-mystic
+  - **Review:** This is a book like no other diserving classification as a 'classic' in the least. Although targeted toward socialism (INGSOC,) it actually describes all types of goverments and extends to all types of power. The techniques employed by the state meantioned, although possibly exagerating the state of affairs, still give a huge insight on politics, power and ways of control. Also useful as an introduction to Orwell's other books especially Animal Farm which can be thought as an investigation into the origins of the system explained in 1984 as well as Aldous Huxley's book Brave New World which could be thought of as an advanced, futuristic and more effective version of 1984. "War is peace, freedom is slavery, ignorance is strength."
+  - **Rating:** 4/5
 - [Burning Chrome (short story collection)]
   - **Description:** A collection of classic cyberpunk sci-fi short stories by William Gibson.
   - **Author(s):** William Gibson
@@ -45,4 +51,4 @@
 [Where Wizards Stay Up Late: The Origins Of The Internet]: https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674
 [Kafka on the Shore]: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore 
 [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon]: https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196
-
+[1984]: https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/
