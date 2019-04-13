@@ -39,16 +39,23 @@
   - **Recommended by:** hassankanj
   - **Rating**: N/A
 - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon]
-  - **Description:** Top cybersecurity journalist Kim Zetter tells the story behind the virus that sabotaged Iran’s nuclear efforts and shows how its existence has ushered in a new age of warfare—one in which a digital attack can have the same destructive capability as a megaton bomb. 
-  - **Author(s):** Kim Zetter 
+  - **Description:** Top cybersecurity journalist Kim Zetter tells the story behind the virus that sabotaged Iran’s nuclear efforts and shows how its existence has ushered in a new age of warfare—one in which a digital attack can have the same destructive capability as a megaton bomb.
+  - **Author(s):** Kim Zetter
   - **Recommended by:** [Link-](https://github.com/Link-)
   - **Rating**: 4/5
+- [Man's Search for Meaning]
+  - **Description:** Viktor Frankl is a psychiatrist who was able to find meaning to his life in the most hard times during his imprisonment in the Nazi's death camps. He shows that suffering is inevitable but we can choose how to cope with it by giving it meaning. In his book he explains his theory, Logotherapy, based on his own experience and his patients stories.
+  - **Author(s):** Viktor E. Frankl.
+  - **Recommended by:** Nagham Al Halabi
+  - **Review**: The fact that this book was written in 9 days and in such a good way is extremely surprising. I loved how the first part was an autobiography followed by a psychological analysis in the second part. It was the first time I hear the word "Logotherapy" and I was glad to know about it.
+  This book left me with more questions than answers. Some of the questions: What if men found their search for meaning in death? What if being a Martyr is idolized in so many societies because it gives more meaning to death than actual life? How can people who suffered so much still stand still and participate in oppressing others?
+  - **Rating**: 4/5
 
-
-[Burning Chrome (short story collection)]: https://www.amazon.com/Burning-Chrome-William-Gibson/dp/0060539828 
+[Burning Chrome (short story collection)]: https://www.amazon.com/Burning-Chrome-William-Gibson/dp/0060539828
 [Structure and Interpretation of Computer Programs]: https://mitpress.mit.edu/sicp/
 [The Science of Interstellar]: https://www.amazon.com/Science-Interstellar-Kip-Thorne/dp/0393351378
 [Where Wizards Stay Up Late: The Origins Of The Internet]: https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674
-[Kafka on the Shore]: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore 
+[Kafka on the Shore]: https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore
 [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon]: https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196
 [1984]: https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/
+[Man’s Search for Meaning]: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X
