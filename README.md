@@ -55,6 +55,11 @@
   - **Recommended by:** [Link-](https://github.com/Link-)
   - **Review**: A great starter on the leader-leader management style as opposed to the traditional top-down style. Highly recommended for everyone planning on or taking a management position in any industry vertical. The author relies on story telling to keep the readers engaged and summarizes key concepts / practices towards the end of each chapter.
   - **Rating**: N/A
+- [Release It!]
+  - **Description:** In Release It!, Michael T. Nygard shows you how to design and architect your application for the harsh realities it will face. You'll learn how to design your application for maximum uptime, performance, and return on investment. Mike explains that many problems with systems today start with the design.
+  - **Recommended by:** [Link-](https://github.com/Link-)
+  - **Review**: Good reference on building scalable, resilient and highly available modern applications. The author goes over common pitfalls and architectural anti-patterns that caused great loss in time, money and business value then moves on to discuss better design decisions to prevent similar problems in the future.
+  - **Rating**: N/A
 
 [Burning Chrome (short story collection)]: https://www.amazon.com/Burning-Chrome-William-Gibson/dp/0060539828
 [Structure and Interpretation of Computer Programs]: https://mitpress.mit.edu/sicp/
@@ -65,3 +70,4 @@
 [1984]: https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/
 [Man’s Search for Meaning]: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X
 [Turn the Ship Around!]: https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y
+[Release It!]: https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213
