@@ -50,6 +50,11 @@
   - **Review**: The fact that this book was written in 9 days and in such a good way is extremely surprising. I loved how the first part was an autobiography followed by a psychological analysis in the second part. It was the first time I hear the word "Logotherapy" and I was glad to know about it.
   This book left me with more questions than answers. Some of the questions: What if men found their search for meaning in death? What if being a Martyr is idolized in so many societies because it gives more meaning to death than actual life? How can people who suffered so much still stand still and participate in oppressing others?
   - **Rating**: 4/5
+- [Turn the Ship Around!]
+  - **Description:** Turn the Ship Around! is the true story of how the Santa Fe skyrocketed from worst to first in the fleet by challenging the U.S. Navy's traditional leader-follower approach. Struggling against his own instincts to take control, he instead achieved the vastly more powerful model of giving control. Before long, each member of Marquet's crew became a leader and assumed responsibility for everything he did, from clerical tasks to crucial combat decisions. The crew became fully engaged, contributing their full intellectual capacity every day, and the Santa Fe started winning awards and promoting a highly disproportionate number of officers to submarine command.
+  - **Recommended by:** [Link-](https://github.com/Link-)
+  - **Review**: A great starter on the leader-leader management style as opposed to the traditional top-down style. Highly recommended for everyone planning on or taking a management position in any industry vertical. The author relies on story telling to keep the readers engaged and summarizes key concepts / practices towards the end of each chapter.
+  - **Rating**: N/A
 
 [Burning Chrome (short story collection)]: https://www.amazon.com/Burning-Chrome-William-Gibson/dp/0060539828
 [Structure and Interpretation of Computer Programs]: https://mitpress.mit.edu/sicp/
@@ -59,3 +64,4 @@
 [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon]: https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196
 [1984]: https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/
 [Man’s Search for Meaning]: https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X
+[Turn the Ship Around!]: https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y
