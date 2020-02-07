@@ -43,7 +43,7 @@
   - **Author(s):** Kim Zetter
   - **Recommended by:** [Link-](https://github.com/Link-)
   - **Rating**: 4/5
-- [Man's Search for Meaning]
+- [Man’s Search for Meaning]
   - **Description:** Viktor Frankl is a psychiatrist who was able to find meaning to his life in the most hard times during his imprisonment in the Nazi's death camps. He shows that suffering is inevitable but we can choose how to cope with it by giving it meaning. In his book he explains his theory, Logotherapy, based on his own experience and his patients stories.
   - **Author(s):** Viktor E. Frankl.
   - **Recommended by:** Nagham Al Halabi
